@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven J. Massey
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning app development using flutter.
+- 👀 I’m interested in Web Development.
+- 🌱 Learning web programming was the best, since it allowed me to make the most of my ideas.
 
 <!---
 stevenJmassey24/stevenJmassey24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
